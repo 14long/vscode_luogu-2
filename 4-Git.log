@@ -1,0 +1,358 @@
+正在查找 Git: /usr/local/bin/git
+将使用位于 /usr/local/bin/git 的 Git 2.28.0
+> git rev-parse --git-dir
+Open repository: /Users/huanggangqi
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/1+1.dSYM/Contents/1629 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/1+1.dSYM/Contents/1629 2.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/优先队列.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/优先队列.cpp
+> git show --textconv :Desktop/mycode/.vscode/链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/Floyd.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/Floyd.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/Floyd.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/Floyd.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson。
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson。
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 bellman-ford.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 2.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 2.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 3.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 3.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1841Floyd+路径计数.cpp
+> git show --textconv :Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/1576 sfpa+链式前向星.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 real dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 real dijkstra.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 real dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 real dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 real dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 real dijkstra.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson1.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson1.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson1.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson1.cpp
+> git show --textconv :Desktop/mycode/.vscode/5905 johnson.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/5905 johnson.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 Dijkstra.cpp
+> git show --textconv :Desktop/mycode/.vscode/3905 False Dijkstra.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/3905 False Dijkstra.cpp
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/2835 set-并查集-强连通分量.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 set-并查集-强连通分量.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/2835 强连通分量Trajan.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 强连通分量Trajan.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/2835 set-并查集-强连通分量.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 set-并查集-强连通分量.cpp
+> git show --textconv :Desktop/mycode/.vscode/2835 强连通分量Trajan.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 强连通分量Trajan.cpp
+> git check-ignore -v -z --stdin
+> git show --textconv :Desktop/mycode/.vscode/2835 set-并查集-强连通分量.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 set-并查集-强连通分量.cpp
+> git show --textconv :Desktop/mycode/.vscode/2835 强连通分量Trajan.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 强连通分量Trajan.cpp
+> git show --textconv :Desktop/mycode/.vscode/2835 强连通分量Tarjan.cpp
+> git ls-files --stage -- /Users/huanggangqi/Desktop/mycode/.vscode/2835 强连通分量Tarjan.cpp
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
